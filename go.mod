@@ -38,7 +38,7 @@ require (
 	github.com/spf13/viper v1.7.1
 	golang.org/x/tools v0.1.1
 	gopkg.in/yaml.v2 v2.3.0
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
+	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools/v3 v3.0.3 // indirect
 	k8s.io/api v0.19.0-rc.2
 	k8s.io/apimachinery v0.19.0-rc.2
